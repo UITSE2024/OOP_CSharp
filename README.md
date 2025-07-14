@@ -1,2 +1,3 @@
 - Sử dụng Console App cho C#
 - Nếu có conflict thì xem lại file hd xử lý conflicts
+- Đặt tên file theo mấy chữ số đầu của slide bài giảng ví dụ (0. OOP... thì tên file là 0; 10.01.... thì tên file là 10.01; ....)
