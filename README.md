@@ -1,0 +1,2 @@
+- Sử dụng Console App cho C#
+- Nếu có conflict thì xem lại file hd xử lý conflicts
