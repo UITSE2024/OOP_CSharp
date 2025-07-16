@@ -3,7 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_CSharp", "OOP_CSharp.csproj", "{F1954387-1120-4B0F-960D-0A193B8D9C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_CSharp", "OOP_CSharp.csproj", "{F1954387-1120-4B0F-960D-0A193B8D9C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19", "..\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19\07. OOP_UIT. Toán Tử Số Học - 2025 - 05 - 19.csproj", "{B02A3D52-9C73-49EF-814D-728E6CDBBE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 02. OOP_UIT. Thiết kế lớp CDiemKhongGian - 2025 - PT", "..\10. 02. OOP_UIT. Thiết kế lớp CDiemKhongGian - 2025 - PT\10. 02. OOP_UIT. Thiết kế lớp CDiemKhongGian - 2025 - PT.csproj", "{7A44DAAF-04BF-48FF-95AD-2478F1C0C361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 05. OOP_UIT. Thiết kế lớp - CSoPhuc - 2025 - PT", "..\10. 05. OOP_UIT. Thiết kế lớp - CSoPhuc - 2025 - PT\10. 05. OOP_UIT. Thiết kế lớp - CSoPhuc - 2025 - PT.csproj", "{33297102-38DB-4448-A37F-9D48324F9382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 08 OOP_UIT. Thiết kế lớp CDonThuc - 2025 - PT", "..\10. 08 OOP_UIT. Thiết kế lớp CDonThuc - 2025 - PT\10. 08 OOP_UIT. Thiết kế lớp CDonThuc - 2025 - PT.csproj", "{EE766C41-1272-4B04-AF9B-C8123F9675CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 11 OOP_UIT. Thiết kế lớp CTamGiac - 2025", "..\10. 11 OOP_UIT. Thiết kế lớp CTamGiac - 2025\10. 11 OOP_UIT. Thiết kế lớp CTamGiac - 2025.csproj", "{2E31530B-E71E-4CF8-9ABB-BD3038FA255B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. OOP_UIT. Đa Xạ - Phần 02 - 2025", "..\12. OOP_UIT. Đa Xạ - Phần 02 - 2025\12. OOP_UIT. Đa Xạ - Phần 02 - 2025.csproj", "{F30C8DC7-8986-47C4-B724-4690F46526C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. OOP_UIT. Đa Xạ - Phần 05 - 2025", "..\12. OOP_UIT. Đa Xạ - Phần 05 - 2025\12. OOP_UIT. Đa Xạ - Phần 05 - 2025.csproj", "{0EFEC2CF-B675-4318-9DF7-89C44D817803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. OOP_UIT. Ứng Dụng Đa Xạ 03 - 2025", "..\13. OOP_UIT. Ứng Dụng Đa Xạ 03 - 2025\13. OOP_UIT. Ứng Dụng Đa Xạ 03 - 2025.csproj", "{B1D962E0-03CA-4E98-BDC2-7B7730E02CC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +31,38 @@ Global
 		{F1954387-1120-4B0F-960D-0A193B8D9C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1954387-1120-4B0F-960D-0A193B8D9C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1954387-1120-4B0F-960D-0A193B8D9C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02A3D52-9C73-49EF-814D-728E6CDBBE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02A3D52-9C73-49EF-814D-728E6CDBBE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02A3D52-9C73-49EF-814D-728E6CDBBE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02A3D52-9C73-49EF-814D-728E6CDBBE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A44DAAF-04BF-48FF-95AD-2478F1C0C361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A44DAAF-04BF-48FF-95AD-2478F1C0C361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A44DAAF-04BF-48FF-95AD-2478F1C0C361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A44DAAF-04BF-48FF-95AD-2478F1C0C361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33297102-38DB-4448-A37F-9D48324F9382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33297102-38DB-4448-A37F-9D48324F9382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33297102-38DB-4448-A37F-9D48324F9382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33297102-38DB-4448-A37F-9D48324F9382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE766C41-1272-4B04-AF9B-C8123F9675CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE766C41-1272-4B04-AF9B-C8123F9675CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE766C41-1272-4B04-AF9B-C8123F9675CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE766C41-1272-4B04-AF9B-C8123F9675CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E31530B-E71E-4CF8-9ABB-BD3038FA255B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E31530B-E71E-4CF8-9ABB-BD3038FA255B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E31530B-E71E-4CF8-9ABB-BD3038FA255B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E31530B-E71E-4CF8-9ABB-BD3038FA255B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30C8DC7-8986-47C4-B724-4690F46526C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30C8DC7-8986-47C4-B724-4690F46526C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30C8DC7-8986-47C4-B724-4690F46526C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30C8DC7-8986-47C4-B724-4690F46526C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFEC2CF-B675-4318-9DF7-89C44D817803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFEC2CF-B675-4318-9DF7-89C44D817803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFEC2CF-B675-4318-9DF7-89C44D817803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFEC2CF-B675-4318-9DF7-89C44D817803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D962E0-03CA-4E98-BDC2-7B7730E02CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D962E0-03CA-4E98-BDC2-7B7730E02CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D962E0-03CA-4E98-BDC2-7B7730E02CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D962E0-03CA-4E98-BDC2-7B7730E02CC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
