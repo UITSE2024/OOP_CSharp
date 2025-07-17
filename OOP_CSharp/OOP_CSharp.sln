@@ -41,6 +41,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Gi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09.csproj", "{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT", "..\10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT\10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT.csproj", "{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01.csproj", "{FB579858-E613-4478-BAE1-6C6F592B6B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02.csproj", "{C5BE111E-AD91-46D8-8F44-CD529862AE90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai03", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai03\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai03.csproj", "{BE8FC47E-895F-4FD8-BDC4-588395952D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai04", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai04\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai04.csproj", "{33C7B031-389C-462E-B627-1274FD5FDDA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai05", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai05\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai05.csproj", "{72A90AB1-8DB9-4598-AA8E-2B2DF8EEE0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai06", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai06\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai06.csproj", "{7AA04A09-351C-4F14-9966-5EEE6202D5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai07", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai07\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai07.csproj", "{B88BD716-7EA2-4BF0-986E-6FB1919C3552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai08", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai08\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai08.csproj", "{15C4BE49-07F2-460C-AD1B-2CEA0E2D6CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai09", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai09\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai09.csproj", "{D90A70A2-0815-41A0-88F1-A933876A37C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +142,46 @@ Global
 		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB579858-E613-4478-BAE1-6C6F592B6B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB579858-E613-4478-BAE1-6C6F592B6B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB579858-E613-4478-BAE1-6C6F592B6B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB579858-E613-4478-BAE1-6C6F592B6B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BE111E-AD91-46D8-8F44-CD529862AE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BE111E-AD91-46D8-8F44-CD529862AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BE111E-AD91-46D8-8F44-CD529862AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BE111E-AD91-46D8-8F44-CD529862AE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8FC47E-895F-4FD8-BDC4-588395952D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8FC47E-895F-4FD8-BDC4-588395952D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8FC47E-895F-4FD8-BDC4-588395952D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8FC47E-895F-4FD8-BDC4-588395952D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C7B031-389C-462E-B627-1274FD5FDDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C7B031-389C-462E-B627-1274FD5FDDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C7B031-389C-462E-B627-1274FD5FDDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C7B031-389C-462E-B627-1274FD5FDDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A90AB1-8DB9-4598-AA8E-2B2DF8EEE0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A90AB1-8DB9-4598-AA8E-2B2DF8EEE0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A90AB1-8DB9-4598-AA8E-2B2DF8EEE0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A90AB1-8DB9-4598-AA8E-2B2DF8EEE0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA04A09-351C-4F14-9966-5EEE6202D5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA04A09-351C-4F14-9966-5EEE6202D5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA04A09-351C-4F14-9966-5EEE6202D5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA04A09-351C-4F14-9966-5EEE6202D5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88BD716-7EA2-4BF0-986E-6FB1919C3552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88BD716-7EA2-4BF0-986E-6FB1919C3552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88BD716-7EA2-4BF0-986E-6FB1919C3552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88BD716-7EA2-4BF0-986E-6FB1919C3552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C4BE49-07F2-460C-AD1B-2CEA0E2D6CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C4BE49-07F2-460C-AD1B-2CEA0E2D6CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C4BE49-07F2-460C-AD1B-2CEA0E2D6CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C4BE49-07F2-460C-AD1B-2CEA0E2D6CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90A70A2-0815-41A0-88F1-A933876A37C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90A70A2-0815-41A0-88F1-A933876A37C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90A70A2-0815-41A0-88F1-A933876A37C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90A70A2-0815-41A0-88F1-A933876A37C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
