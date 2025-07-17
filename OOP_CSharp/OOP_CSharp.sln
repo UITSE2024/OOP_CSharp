@@ -41,6 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Gi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09.csproj", "{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT", "..\10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT\10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT.csproj", "{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01.csproj", "{FB579858-E613-4478-BAE1-6C6F592B6B89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02.csproj", "{C5BE111E-AD91-46D8-8F44-CD529862AE90}"
@@ -141,6 +142,10 @@ Global
 		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB579858-E613-4478-BAE1-6C6F592B6B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB579858-E613-4478-BAE1-6C6F592B6B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB579858-E613-4478-BAE1-6C6F592B6B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
