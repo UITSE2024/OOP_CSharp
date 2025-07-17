@@ -1,4 +1,5 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -41,6 +42,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09.csproj", "{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT", "..\10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT\10. 04 OOP_UIT. Thiết kế lớp CHonSo - 2025 - PT.csproj", "{F38A7FA2-1D8C-4A09-B4B6-AA446CA673A4}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai01.csproj", "{FB579858-E613-4478-BAE1-6C6F592B6B89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai02.csproj", "{C5BE111E-AD91-46D8-8F44-CD529862AE90}"
@@ -58,6 +60,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai08", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai08\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai08.csproj", "{15C4BE49-07F2-460C-AD1B-2CEA0E2D6CF4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai09", "..\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai09\03. OOP_UIT. Lập Trình HĐT với C++ - Giải Bài Tập - 2023_Bai09.csproj", "{D90A70A2-0815-41A0-88F1-A933876A37C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. OOP_UIT. Đa Xạ - Phần 04 - 2025", "..\12. OOP_UIT. Đa Xạ - Phần 04 - 2025\12. OOP_UIT. Đa Xạ - Phần 04 - 2025.csproj", "{AB6EAA86-B922-4823-912C-24161BBB15CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +185,10 @@ Global
 		{D90A70A2-0815-41A0-88F1-A933876A37C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D90A70A2-0815-41A0-88F1-A933876A37C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D90A70A2-0815-41A0-88F1-A933876A37C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6EAA86-B922-4823-912C-24161BBB15CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6EAA86-B922-4823-912C-24161BBB15CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6EAA86-B922-4823-912C-24161BBB15CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6EAA86-B922-4823-912C-24161BBB15CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
