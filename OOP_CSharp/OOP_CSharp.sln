@@ -23,6 +23,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. OOP_UIT. Ứng Dụng �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 10. OOP_UIT. Thiết kế lớp CDuongTron", "..\10. 10. OOP_UIT. Thiết kế lớp CDuongTron\10. 10. OOP_UIT. Thiết kế lớp CDuongTron.csproj", "{465EA588-1CA1-4548-8460-22054C3FF40A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai01", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai01\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai01.csproj", "{2AD49B6B-B394-46E6-9C54-2A51A1C70084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai02", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai02\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai02.csproj", "{16CAD963-FA90-4937-A63A-40B2AF3DB1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai03", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai03\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai03.csproj", "{A9A9F345-B224-4DF9-A13C-215E3F6FD7DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai04", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai04\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai04.csproj", "{2BC958DF-E311-4AB2-911A-E0C2DB95F24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai05", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai05\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai05.csproj", "{4C06D868-C4C8-4BED-974D-6B26B6C64D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai06", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai06\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai06.csproj", "{8E220AF8-4081-47DB-BE34-1D7710436E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai07", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai07\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai07.csproj", "{C861D2B6-5C91-4000-BC5B-96568A853357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai08", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai08\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai08.csproj", "{EC657959-6B54-46CB-A4BF-2BC019F23726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09", "..\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09\01. OOP_UIT. Ôn Tập - Giải Bài Tập - 2025 - 05 -17_Bai09.csproj", "{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +87,42 @@ Global
 		{465EA588-1CA1-4548-8460-22054C3FF40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465EA588-1CA1-4548-8460-22054C3FF40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465EA588-1CA1-4548-8460-22054C3FF40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD49B6B-B394-46E6-9C54-2A51A1C70084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD49B6B-B394-46E6-9C54-2A51A1C70084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD49B6B-B394-46E6-9C54-2A51A1C70084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD49B6B-B394-46E6-9C54-2A51A1C70084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CAD963-FA90-4937-A63A-40B2AF3DB1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CAD963-FA90-4937-A63A-40B2AF3DB1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CAD963-FA90-4937-A63A-40B2AF3DB1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CAD963-FA90-4937-A63A-40B2AF3DB1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A9F345-B224-4DF9-A13C-215E3F6FD7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A9F345-B224-4DF9-A13C-215E3F6FD7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A9F345-B224-4DF9-A13C-215E3F6FD7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A9F345-B224-4DF9-A13C-215E3F6FD7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC958DF-E311-4AB2-911A-E0C2DB95F24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC958DF-E311-4AB2-911A-E0C2DB95F24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC958DF-E311-4AB2-911A-E0C2DB95F24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC958DF-E311-4AB2-911A-E0C2DB95F24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C06D868-C4C8-4BED-974D-6B26B6C64D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C06D868-C4C8-4BED-974D-6B26B6C64D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C06D868-C4C8-4BED-974D-6B26B6C64D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C06D868-C4C8-4BED-974D-6B26B6C64D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E220AF8-4081-47DB-BE34-1D7710436E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E220AF8-4081-47DB-BE34-1D7710436E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E220AF8-4081-47DB-BE34-1D7710436E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E220AF8-4081-47DB-BE34-1D7710436E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C861D2B6-5C91-4000-BC5B-96568A853357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C861D2B6-5C91-4000-BC5B-96568A853357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C861D2B6-5C91-4000-BC5B-96568A853357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C861D2B6-5C91-4000-BC5B-96568A853357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC657959-6B54-46CB-A4BF-2BC019F23726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC657959-6B54-46CB-A4BF-2BC019F23726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC657959-6B54-46CB-A4BF-2BC019F23726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC657959-6B54-46CB-A4BF-2BC019F23726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE99D7A-FE9A-4C83-BE5C-8FB7E701EA86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
