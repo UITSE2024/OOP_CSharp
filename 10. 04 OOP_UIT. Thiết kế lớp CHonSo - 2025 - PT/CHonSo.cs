@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 public class CHonSo
 {
@@ -75,6 +76,16 @@ public class CHonSo
         Nguyen = NguyenNguyen;
         Tu = 0;
         Mau = 1;
+    }
+
+    public void Nhap()
+    {
+        Console.Write("Nhap phan nguyen: ");
+        Nguyen = int.Parse(Console.ReadLine());
+        Console.Write("Nhap tu: ");
+        Tu = int.Parse(Console.ReadLine());
+        Console.Write("Nhap mau: ");
+        Mau = int.Parse(Console.ReadLine());
     }
 
     // === NHÓM PHƯƠNG THỨC CUNG CẤP THÔNG TIN ===
@@ -158,44 +169,40 @@ public class CHonSo
         return false;
     }
 
-    public bool GreaterThan(CHonSo x)
+    public static bool operator > (CHonSo a, CHonSo b)
     {
-        CHonSo temp = new CHonSo(x);
-        float a = getGiaTri();
-        float b = temp.getGiaTri();
-        if (a > b)
+        float aa = a.getGiaTri();
+        float bb = b.getGiaTri();
+        if (aa > bb)
             return true;
 
         return false;
     }
 
-    public bool LessThan(CHonSo x)
+    public static bool operator < (CHonSo a, CHonSo b)
     {
-        CHonSo temp = new CHonSo(x);
-        float a = getGiaTri();
-        float b = temp.getGiaTri();
-        if (a < b)
+        float aa = a.getGiaTri();
+        float bb = b.getGiaTri();
+        if (aa < bb)
             return true;
 
         return false;
     }
 
-    public bool GreaterThanOrEqual(CHonSo x)
+    public static bool operator >= (CHonSo a, CHonSo b)
     {
-        CHonSo temp = new CHonSo(x);
-        float a = getGiaTri();
-        float b = temp.getGiaTri();
-        if (a >= b)
+        float aa = a.getGiaTri();
+        float bb = b.getGiaTri();
+        if (aa >= bb)
             return true;
 
         return false;
     }
-    public bool LessThanOrEqual(CHonSo x)
+    public static bool operator <=(CHonSo a, CHonSo b)
     {
-        CHonSo temp = new CHonSo(x);
-        float a = getGiaTri();
-        float b = temp.getGiaTri();
-        if (a <= b)
+        float aa = a.getGiaTri();
+        float bb = b.getGiaTri();
+        if (aa <= bb)
             return true;
 
         return false;
@@ -251,110 +258,67 @@ public class CHonSo
         return;
     }
 
-    public CHonSo Add (CHonSo x)
+    public static CHonSo operator +(CHonSo a, CHonSo b)
     {
-        var result = new CHonSo();
-        result.Nguyen = Nguyen + x.Nguyen;
-        result.Tu = Tu * x.Mau + Mau * x.Tu;
-        result.Mau = Mau * x.Mau;
+        CHonSo result = new CHonSo();
+        result.Nguyen = a.Nguyen + b.Nguyen;
+        result.Tu = a.Tu * b.Mau + b.Tu * a.Mau;
+        result.Mau = a.Mau * b.Mau;
         result.RutGon();
         return result;
     }
 
-    public CHonSo Subtract(CHonSo x)
+    public static CHonSo operator -(CHonSo a, CHonSo b)
     {
-        var result = new CHonSo();
-        result.Nguyen = Nguyen - x.Nguyen;
-        result.Tu = Tu * x.Mau - Mau * x.Tu;
-        result.Mau = Mau * x.Mau;
+        CHonSo result = new CHonSo();
+        result.Nguyen = a.Nguyen - b.Nguyen;
+        result.Tu = a.Tu * b.Mau - b.Tu * a.Mau;
+        result.Mau = a.Mau * b.Mau;
         result.RutGon();
         return result;
     }
 
-    public CHonSo Multiply(CHonSo x)
+    public static CHonSo operator *(CHonSo a, CHonSo b)
     {
-        var result = new CHonSo();
-        result.Tu = (Nguyen * Mau + Tu) * (x.Nguyen * x.Mau + x.Tu);
-        result.Mau = Mau * x.Mau;
+        CHonSo result = new CHonSo();
+        result.Nguyen = a.Nguyen * b.Nguyen;
+        result.Tu = a.Tu * b.Tu + a.Nguyen * b.Tu * b.Mau + b.Nguyen * a.Tu * a.Mau;
+        result.Mau = a.Mau * b.Mau;
         result.RutGon();
         return result;
     }
 
-    public CHonSo Divide(CHonSo x)
+    public static CHonSo operator /(CHonSo a, CHonSo b)
     {
-        var result = new CHonSo();
-        result.Tu = (Nguyen * Mau + Tu) * x.Mau;
-        result.Mau = Mau * (x.Nguyen * x.Mau + x.Tu);
+        CHonSo result = new CHonSo();
+        result.Nguyen = a.Nguyen / b.Nguyen;
+        result.Tu = a.Tu * b.Mau;
+        result.Mau = a.Mau * b.Tu;
         result.RutGon();
         return result;
     }
 
-    public CHonSo AddEquals(CHonSo x)
+    public static CHonSo operator ++ (CHonSo a)
     {
-        CHonSo temp = new CHonSo();
-        temp.Nguyen = Nguyen + x.Nguyen;
-        temp.Tu = Tu * x.Mau + Mau * x.Tu;
-        temp.Mau = Mau * x.Mau;
-        temp.RutGon();
-        this.Gan(temp);
-        return this;
-    }
-    public CHonSo SubEquals(CHonSo x)
-    {
-        CHonSo temp = new CHonSo();
-        temp.Nguyen = Nguyen - x.Nguyen;
-        temp.Tu = Tu * x.Mau - Mau * x.Tu;
-        temp.Mau = Mau * x.Mau;
-        temp.RutGon();
-        this.Gan(temp);
-        return this;
+        CHonSo result = new CHonSo();
+        result.Nguyen = a.Nguyen + 1;
+        result.Tu = a.Tu;
+        result.Mau = a.Mau;
+        result.RutGon();
+        return result;
     }
 
-    public CHonSo MulEquals(CHonSo x)
+    public static CHonSo operator -- (CHonSo a)
     {
-        CHonSo temp = new CHonSo();
-        temp.Tu = (Nguyen * Mau + Tu) * (x.Nguyen * x.Mau + x.Tu);
-        temp.Mau = Mau * x.Mau;
-        temp.RutGon();
-        this.Gan(temp);
-        return this;
-    }
-
-    public CHonSo DivEquals(CHonSo x)
-    {
-        CHonSo temp = new CHonSo();
-        temp.Tu = (Nguyen * Mau + Tu) * x.Mau;
-        temp.Mau = Mau * (x.Nguyen * x.Mau + x.Tu);
-        temp.RutGon();
-        this.Gan(temp);
-        return this;
-    }
-
-    public CHonSo Increment()
-    {
-        Nguyen++;
-        return this;
-    }
-    public CHonSo Decrement()
-    {
-        Nguyen--;
-        return this;
-    }
-
-    public CHonSo Increment(int value)
-    {
-        Nguyen += value;
-        return this;
-    }
-
-    public CHonSo Decrement(int value)
-    {
-        Nguyen -= value;
-        return this;
+        CHonSo result = new CHonSo();
+        result.Nguyen = a.Nguyen - 1;
+        result.Tu = a.Tu;
+        result.Mau = a.Mau;
+        result.RutGon();
+        return result;
     }
 
 
-    // Utility
     public int UCLN()
     {
         int a = Math.Abs(Tu);
