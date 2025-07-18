@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. OOP_UIT. Lập Trình H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. OOP_UIT. Đa Xạ - Phần 04 - 2025", "..\12. OOP_UIT. Đa Xạ - Phần 04 - 2025\12. OOP_UIT. Đa Xạ - Phần 04 - 2025.csproj", "{AB6EAA86-B922-4823-912C-24161BBB15CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_UIT. Thiết kế lớp CDiem - 2025", "..\OOP_UIT. Thiết kế lớp CDiem - 2025\OOP_UIT. Thiết kế lớp CDiem - 2025.csproj", "{1B24E87A-BB92-473A-A6D6-B4F83E2C3DA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{AB6EAA86-B922-4823-912C-24161BBB15CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6EAA86-B922-4823-912C-24161BBB15CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB6EAA86-B922-4823-912C-24161BBB15CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B24E87A-BB92-473A-A6D6-B4F83E2C3DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B24E87A-BB92-473A-A6D6-B4F83E2C3DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B24E87A-BB92-473A-A6D6-B4F83E2C3DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B24E87A-BB92-473A-A6D6-B4F83E2C3DA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
