@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. OOP_UIT. Ứng Dụng �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 07 OOP_UIT. Thiết kế lớp CThoiGian - 2025 - PT", "..\10. 07 OOP_UIT. Thiết kế lớp CThoiGian - 2025 - PT\10. 07 OOP_UIT. Thiết kế lớp CThoiGian - 2025 - PT.csproj", "{7DC099F9-8149-4049-A15C-EAB474CB8CE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. OOP_UIT. Ứng Dụng Đa Xạ 02 - 2025", "..\13. OOP_UIT. Ứng Dụng Đa Xạ 02 - 2025\13. OOP_UIT. Ứng Dụng Đa Xạ 02 - 2025.csproj", "{653233C4-46F3-4702-A14C-A0405F68906B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7DC099F9-8149-4049-A15C-EAB474CB8CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC099F9-8149-4049-A15C-EAB474CB8CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC099F9-8149-4049-A15C-EAB474CB8CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653233C4-46F3-4702-A14C-A0405F68906B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653233C4-46F3-4702-A14C-A0405F68906B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653233C4-46F3-4702-A14C-A0405F68906B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653233C4-46F3-4702-A14C-A0405F68906B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
